@@ -223,7 +223,7 @@ Defining what is going to be reviewed, the people involved and setting up the cr
 The strictness of each review process increases from left to right. 
 
 #### Informal Review
-Review process not based on a formal process used to detect potential defects. 
+Review process not based on a formal process, used to detect potential defects. 
 
 #### Walkthrough
 Going through the product with the product **author** to find defects, improve software product, and evaluate conformance to standards and specifications.
